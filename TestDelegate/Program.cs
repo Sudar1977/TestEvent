@@ -17,7 +17,7 @@ namespace TestDelegate
             new Example05_DelegateAsMethodParametr();
             new Example06_GenericDelegate();
             //Далее примеры Action
-            new Example11_Action();
+            new Example11_ActionPredicateFunc();
             Console.ReadKey();
 
         }

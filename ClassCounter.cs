@@ -17,15 +17,6 @@ namespace TestEvent
         //Событие OnCount c типом делегата MethodContainer.
         public event MethodContainer onCount;
 
-        //Dictionary<string, Action> _actions;
-//        void NameMetods(string value)
-//        {
-//            _actions = new Dictionary<string, Action>
-//            {
-////                ["Message_I"] = Message_I;
-//            }
-//        }
-
         public void Count()
         {
             //Здесь будет производиться счет

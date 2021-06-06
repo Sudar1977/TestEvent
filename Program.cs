@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 
 namespace TestEvent
 {
+    //https://habr.com/ru/post/213809/
+    //События C# по-человечески
     class Program
     {
         static void Main(string[] args)

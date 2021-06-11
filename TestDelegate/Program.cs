@@ -1,4 +1,5 @@
 ﻿using System;
+using TestDelegate.Example21;
 
 namespace TestDelegate
 {
@@ -17,7 +18,8 @@ namespace TestDelegate
             new Example05_DelegateAsMethodParametr();
             new Example06_GenericDelegate();
             //Далее примеры Action
-            new Example11_ActionPredicateFunc();
+            new Example51_ActionPredicateFunc();
+            new Program22();
             Console.ReadKey();
 
         }

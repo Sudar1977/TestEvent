@@ -12,9 +12,9 @@ using System.Text;
 
 namespace TestDelegate
 {
-    class Example11_ActionPredicateFunc
+    class Example51_ActionPredicateFunc
     {
-        public Example11_ActionPredicateFunc()
+        public Example51_ActionPredicateFunc()
         {
             Action<int, int> op = null;
             op = Add;
